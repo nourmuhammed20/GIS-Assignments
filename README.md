@@ -1,11 +1,11 @@
 # GIS Assignments
 
 ## Introduction
-![GIS Assignment](/Ass1_Pro/Layout.jpg)
 Welcome to the GIS Assignments for the Faculty of Computer and Artificial Intelligence at Cairo University, 3rd level. These assignments are designed to introduce you to Mapping Science and Geographic Information Systems (GIS) through hands-on exercises using ArcGIS Pro.
 
 ## Assignment #1: Introduction to ArcGIS Pro and Data Query
 
+![GIS Assignment](/Ass1_Pro/Layout.jpg)
 ### Goals:
 - Familiarize yourself with the ArcGIS Pro software.
 - Learn how to query spatial data to extract information.
@@ -24,39 +24,38 @@ Welcome to the GIS Assignments for the Faculty of Computer and Artificial Intell
 - Export a PDF or JPEG map showing the answers to the questions.
 - Deadline for submission: 5th November 2023.
 
-## Instructions
+## Assignment #2: Introduction to ArcGIS Pro and Data Query
 
-1. **Data Management and Software Setup**:
-   - Copy the exercise files to your flash drive.
-   - Open the ArcGIS Pro software and load the provided exercise map document.
+![GIS Assignment](/Ass2_Pro/Layout2.jpg)
 
-2. **Navigating in ArcGIS Pro**:
-   - Explore the Table of Contents to manage layers.
-   - Familiarize yourself with zooming, panning, and bookmarks.
 
-3. **Extracting Information from Data**:
-   - Utilize the Identify tool to retrieve information about specific features.
-   - Measure distances and areas using the Measure tool.
+### Objective:
+Identify an area to build a new high school in El Dokki District meeting specific criteria.
 
-4. **Working with Attribute Tables**:
-   - Open attribute tables to view data properties.
-   - Sort and calculate statistics on attribute fields.
+### Deliverables:
+- Report including:
+  - Map of potential area(s) to build the high school.
+  - Methodology map illustrating the analysis process.
 
-5. **Selecting Features**:
-   - Use the Select Features tool to identify specific features.
-   - Perform attribute-based selections.
+## Assignment #3: Geo Database Editing and Analysis
 
-6. **Exporting Maps**:
-   - Export maps as PDF or JPEG files for presentation.
+![GIS Assignment](/Ass3_Pro/Layout2.jpg)
 
-## Additional Notes
+### Objectives:
+1. Edit and generate a new shapefile for 29 governorates including 6 October and Helwan governorates.
+2. Perform table relates and joins.
+3. Create graphs and reports.
+4. Add map components (legend, scale bar, north arrow, etc.).
+5. Export images in JPEG format with 700dpi resolution.
 
-- **Individual Work**: This assignment should be completed individually.
-- **Submission Guidelines**: Submit detailed steps along with print screens for each step.
-- **Deadline**: The deadline for submission is 5th November 2023.
+## Assignment #4: GIS Suitability Analysis for Wind Turbines
+
+![GIS Assignment](/Ass4_Pro/Layout4.jpg)
+
+### Objectives:
+- Create zones of suitability for wind turbine construction based on preclusive, unfavorable, and unrestricted areas.
+- Develop models and tools in an Arc Toolbox named "my first arc toolbox" for preclusive and unfavorable area analysis.
 
 For any questions or clarifications, please feel free to ask me on my email mailto:nourmuhammed36@gmail.com.
-
-
 
 ---
