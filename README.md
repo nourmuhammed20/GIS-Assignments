@@ -26,7 +26,7 @@ Welcome to the GIS Assignments for the Faculty of Computer and Artificial Intell
 
 ## Assignment #2: Introduction to ArcGIS Pro and Data Query
 
-![GIS Assignment](/Ass2_Pro/Layout2.jpg)
+![GIS Assignment](/Ass2_Pro/Layout2.png)
 
 
 ### Objective:
