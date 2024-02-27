@@ -1,7 +1,7 @@
-# GIS Assignments Readme
+# GIS Assignments
 
 ## Introduction
-
+![GIS Assignment](/Ass1_Pro/Layout.jpg)
 Welcome to the GIS Assignments for the Faculty of Computer and Artificial Intelligence at Cairo University, 3rd level. These assignments are designed to introduce you to Mapping Science and Geographic Information Systems (GIS) through hands-on exercises using ArcGIS Pro.
 
 ## Assignment #1: Introduction to ArcGIS Pro and Data Query
@@ -55,8 +55,8 @@ Welcome to the GIS Assignments for the Faculty of Computer and Artificial Intell
 - **Submission Guidelines**: Submit detailed steps along with print screens for each step.
 - **Deadline**: The deadline for submission is 5th November 2023.
 
-For any questions or clarifications, please consult your TA during lab sessions.
+For any questions or clarifications, please feel free to ask me on my email mailto:nourmuhammed36@gmail.com.
 
-![GIS Assignment](path/to/your/photo.jpg)
+
 
 ---
